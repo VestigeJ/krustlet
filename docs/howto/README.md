@@ -13,3 +13,4 @@ However, these guides will help you quickly accomplish common tasks.
 - [Running Kubernetes on Amazon Elastic Kubernetes Service (EKS)](kubernetes-on-eks.md)
 - [Running Kubernetes on Kubernetes-in-Docker (KinD)](kubernetes-on-kind.md)
 - [Running Kubernetes on Minikube](kubernetes-on-minikube.md)
+- [Running Kubernetes on Microk8s](kubernetes-on-microk8s.md)
