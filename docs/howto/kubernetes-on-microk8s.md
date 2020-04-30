@@ -46,7 +46,7 @@ sudo microk8s enable dns dashboard registry
 Similarly, ```microk8s disable``` turns off a service. Try ```microk8s enable --help``` for a list of available services built in.
 
 #### Working with Microk8s
-Visit the [docs](https://microk8s.io/docs/) to 
+Visit the [docs](https://microk8s.io/docs/) to learn more about wielding Microk8s.
 
 
 ## MacOS
@@ -102,7 +102,7 @@ sudo microk8s enable dns dashboard registry
 Similarly, ```microk8s disable``` turns off a service. Try ```microk8s enable --help``` for a list of available services built in.
 
 #### Working with Microk8s
-Visit the [docs](https://microk8s.io/docs/) to 
+Visit the [docs](https://microk8s.io/docs/) to learn more about wielding Microk8s.
 
 
 
@@ -159,6 +159,6 @@ sudo microk8s enable dns dashboard registry
 Similarly, ```microk8s disable``` turns off a service. Try ```microk8s enable --help``` for a list of available services built in.
 
 #### Working with Microk8s
-Visit the [docs](https://microk8s.io/docs/) to 
+Visit the [docs](https://microk8s.io/docs/) to learn more about wielding Microk8s.
 
 
